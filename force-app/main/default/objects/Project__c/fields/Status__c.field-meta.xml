@@ -28,7 +28,7 @@
              <value>
                 <fullName>Not Active</fullName>
                 <default>false</default>
-                <label>Completed</label>
+                <label>Not Active</label>
             </value>
         </valueSetDefinition>
     </valueSet>
