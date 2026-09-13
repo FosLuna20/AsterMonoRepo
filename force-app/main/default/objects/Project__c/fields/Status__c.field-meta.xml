@@ -19,8 +19,14 @@
                 <default>false</default>
                 <label>Active</label>
             </value>
+        
             <value>
                 <fullName>Completed</fullName>
+                <default>false</default>
+                <label>Completed</label>
+            </value>
+             <value>
+                <fullName>Not Active</fullName>
                 <default>false</default>
                 <label>Completed</label>
             </value>
