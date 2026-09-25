@@ -22,7 +22,6 @@
             <role>SVPCustomerServiceSupport</role>
         </sharedFrom>
     </sharingOwnerRules>
-</SharingRules>
 <sharingOwnerRules>
         <fullName>Inchcape_Indonesia</fullName>
         <accessLevel>Read</accessLevel>
