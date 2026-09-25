@@ -16,4 +16,36 @@
             <role>ChannelSalesTeam</role>
         </sharedFrom>
     </sharingOwnerRules>
+        <sharingOwnerRules>
+        <fullName>Inchcape_Philippines</fullName>
+        <accessLevel>Read</accessLevel>
+        <accountSettings>
+            <caseAccessLevel>None</caseAccessLevel>
+            <contactAccessLevel>Read</contactAccessLevel>
+            <opportunityAccessLevel>None</opportunityAccessLevel>
+        </accountSettings>
+        <label>Inchcape Philippines</label>
+        <sharedTo>
+            <role>SVPCustomerServiceSupport</role>
+        </sharedTo>
+        <sharedFrom>
+            <role>ChannelSalesTeam</role>
+        </sharedFrom>
+    </sharingOwnerRules>
+        <sharingOwnerRules>
+        <fullName>Inchcape_Japan</fullName>
+        <accessLevel>Read</accessLevel>
+        <accountSettings>
+            <caseAccessLevel>None</caseAccessLevel>
+            <contactAccessLevel>Read</contactAccessLevel>
+            <opportunityAccessLevel>None</opportunityAccessLevel>
+        </accountSettings>
+        <label>Inchcape Japan</label>
+        <sharedTo>
+            <role>SVPCustomerServiceSupport</role>
+        </sharedTo>
+        <sharedFrom>
+            <role>ChannelSalesTeam</role>
+        </sharedFrom>
+    </sharingOwnerRules>
 </SharingRules>
