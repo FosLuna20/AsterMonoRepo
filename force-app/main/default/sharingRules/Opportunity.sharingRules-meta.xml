@@ -1,17 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <SharingRules xmlns="http://soap.sforce.com/2006/04/metadata">
     <sharingOwnerRules>
-        <fullName>Inchcape_Japan</fullName>
-        <accessLevel>Read</accessLevel>
-        <label>Inchcape Japan</label>
-        <sharedTo>
-            <role>EasternSalesTeam</role>
-        </sharedTo>
-        <sharedFrom>
-            <role>VPMarketing</role>
-        </sharedFrom>
-    </sharingOwnerRules>
-    <sharingOwnerRules>
         <fullName>Inchcape_Philippines</fullName>
         <accessLevel>Read</accessLevel>
         <label>Inchcape Philippines</label>
@@ -21,16 +10,5 @@
         <sharedFrom>
             <role>SVPCustomerServiceSupport</role>
         </sharedFrom>
-    </sharingOwnerRules>
-<sharingOwnerRules>
-        <fullName>Inchcape_Indonesia</fullName>
-        <accessLevel>Read</accessLevel>
-        <label>Inchcape Indonesia</label>
-        <sharedTo>
-            <role>DirectorChannelSales</role>
-        </sharedTo>
-        <sharedFrom>
-            <role>SVPCustomerServiceSupport</role>
-        </sharedFrom>
-    </sharingOwnerRules>
+    </sharingOwnerRules>>
 </SharingRules>
